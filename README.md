@@ -272,10 +272,6 @@ This replicates the exact experimental setup from the paper:
 
 This implementation is provided for educational and research purposes as part of the JP Morgan internship application process.
 
-## Contact
-
-For questions or issues, please refer to the comprehensive report document included in this submission.
-
 ---
 
 **Implementation Status: ✅ Complete and Verified**
